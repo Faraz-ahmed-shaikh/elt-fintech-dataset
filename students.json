@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "name": "faraz SHaikh",
+    "age": 19,
+    "major": "data engineering",
+    "gpa": 9.8,
+    "is_enrolled": true,
+    "skill": "SQL"
+  },
+  {
+    "id": 102,
+    "name": "Sufiyaan"
+    "age":,
+    "major": "Backend",
+    "gpa": 9.3,
+    "is_enrolled": true,
+    "skill": "  Development"
+  },
+  {
+    "id": 103,
+    "name": "Hasan balasaniya",
+    "age": 22,
+    "major": "Cyber Security  ",
+    "gpa": 9.4,
+    "is_enrolled": false,
+    "skill": "Linux"
+  },
+  {
+    "id": 104,
+    "name": "Niheeta Vishwakarma",
+    "age": 19,
+    "major": "Big data Engineering",
+    "gpa": 3.7,
+    "is_enrolled": false,
+    "skill": "PYTHON"
+  },
+  {
+    "id": 105,
+    "name": "Megha Jha",
+    "age": 26,
+    "major": "Business Analytics",
+    "gpa": 3.6,
+    "is_enrolled": true,
+    "skill": "Excel"
+  }
+]
