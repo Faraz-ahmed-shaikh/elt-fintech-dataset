@@ -10,8 +10,8 @@
   },
   {
     "id": 102,
-    "name": "Sufiyaan"
-    "age":,
+    "name": "Sufiyaan",
+    "age": null,
     "major": "Backend",
     "gpa": 9.3,
     "is_enrolled": true,
@@ -31,7 +31,7 @@
     "name": "Niheeta Vishwakarma",
     "age": 19,
     "major": "Big data Engineering",
-    "gpa": 3.7,
+    "gpa": 8.7,
     "is_enrolled": false,
     "skill": "PYTHON"
   },
@@ -40,7 +40,7 @@
     "name": "Megha Jha",
     "age": 26,
     "major": "Business Analytics",
-    "gpa": 3.6,
+    "gpa": null,
     "is_enrolled": true,
     "skill": "Excel"
   }
