@@ -68,5 +68,35 @@
     "is_enrolled": false,
     "skill": "Beauty",
     "created_at": "2026-07-17T10:50:18.222+00:00"
+  },
+  {
+    "id": 108,
+    "name": "Yasmeen Khan",
+    "age": 20,
+    "major": "AI ENGINEER",
+    "gpa": 1.5,
+    "is_enrolled": false,
+    "skill": "Gossip",
+    "created_at": "2026-07-19T10:50:18.222+00:00"
+  },
+  {
+    "id": 109,
+    "name": "Ashutoast Dubs",
+    "age": 30,
+    "major": "Information Technology",
+    "gpa": 0.0,
+    "is_enrolled": false,
+    "skill": "idk",
+    "created_at": "2026-07-19T10:50:18.222+00:00"
+  },
+  {
+    "id": 110,
+    "name": "Aran Gupta",
+    "age": 19,
+    "major": "Game Devleopment",
+    "gpa": 7.9,
+    "is_enrolled": true,
+    "skill": "Unity",
+    "created_at": "2026-07-19T10:50:18.222+00:00"
   }
 ]
