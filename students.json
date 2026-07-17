@@ -98,5 +98,25 @@
     "is_enrolled": true,
     "skill": "Unity",
     "created_at": "2026-07-19T10:50:18.222+00:00"
+  },
+  {
+    "id": 111,
+    "name": "Suhana Khan",
+    "age": 19,
+    "major": "Medical",
+    "gpa": 10.0,
+    "is_enrolled": true,
+    "skill": "Study",
+    "created_at": "2026-07-22T10:50:18.222+00:00"
+  },
+  {
+    "id": 112,
+    "name": "Code with Hary",
+    "age": 25,
+    "major": "Teaching & Devleopment",
+    "gpa": 9.9,
+    "is_enrolled": true,
+    "skill": "Teaching",
+    "created_at": "2026-07-19T10:50:18.222+00:00"
   }
 ]
