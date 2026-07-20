@@ -158,5 +158,15 @@
     "is_enrolled": true,
     "skill": "Apache Spark",
     "created_at": "2026-07-26T10:50:18.222+00:00"
+  },
+  {
+    "id": null,
+    "name": null,
+    "age": 19,
+    "major": "Data Engineering",
+    "gpa": 10.0,
+    "is_enrolled": true,
+    "skill": "Apache Spark",
+    "created_at": "2026-07-26T10:50:18.222+00:00"
   }
 ]
